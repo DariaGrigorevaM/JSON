@@ -1,4 +1,6 @@
-ls -la
-ls -la
-git status
-clear
+{
+"name": "Daria",
+"age": "32",
+"pets": "0",
+"salary": "100k"
+}
